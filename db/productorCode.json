@@ -1,0 +1,14 @@
+{
+    "productorCodes": [
+        {
+            "id": 1,
+            "codeNumber": 382549947,
+            "gender": "man"
+        },
+        {
+            "id": 2,
+            "codeNumber": 471617711,
+            "gender": "woman"
+        }
+    ]
+}
