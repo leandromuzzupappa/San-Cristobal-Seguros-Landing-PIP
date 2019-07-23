@@ -1,1 +1,2 @@
-#San Cristobal Seguros \n ##PHP - SASS - MySQL
+#San Cristobal Seguros
+##PHP - SASS - MySQL - jQuery
